@@ -102,13 +102,11 @@ In the project directory, you need to run in terminal `python main.py` and your 
 
 ## 🧑🏻 Author
 
-**Rohit Jain**
+**Isam Al-Fuqaha**
 
-- 🌌 [Profile](https://github.com/Rohit19060 "Rohit Jain")
+- 🌌 [Profile](https://github.com/isamalf")
 
-- 🏮 [Email](mailto:rohitjain19060@gmail.com?subject=Hi%20from%20Virtual%20Assistant "Hi!")
-
-- 🦁 [Website](https://kingtechnologies.in "Welcome")
+- 🏮 [Email]("isamalfuqaha@gmail.com")
 
 <h2 align="center">🤝 Support</h2>
 
